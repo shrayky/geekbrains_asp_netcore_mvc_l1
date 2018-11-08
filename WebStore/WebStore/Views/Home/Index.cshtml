@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebStore.Models.EmployeeViewModel>
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" charset="utf-8" />
+    <title>Index</title>
+</head>
+
+<body>
+
+    <table>
+
+        <tr>
+
+            <td>FirstName</td>
+            <td>SurName</td>
+            <td>Patronymic</td>
+            <td>Age</td>
+
+        </tr>
+
+        @foreach (var dataStr in Model)
+        {
+        <tr>
+
+            <td>@dataStr.FirstName</td>
+            <td>@dataStr.SurName</td>
+            <td>@dataStr.Patronymic</td>
+            <td>@dataStr.Age</td>
+            <td>@Html.ActionLink("Побробно", "Details", new { id = dataStr.Id})</td>
+
+        </tr>
+        }
+
+    </table>
+
+</body>
+
+</html>

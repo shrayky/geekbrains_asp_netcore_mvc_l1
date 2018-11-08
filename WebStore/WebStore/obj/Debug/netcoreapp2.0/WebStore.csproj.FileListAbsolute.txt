@@ -1,0 +1,11 @@
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.deps.json
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.json
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.dev.json
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.dll
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csprojAssemblyReference.cache
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CoreCompileInputs.cache
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfoInputs.cache
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.pdb
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
+D:\OneDrive\Design\geekbrains\ASP.NET MVC 6. Уровень 1\01 lesson\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb
